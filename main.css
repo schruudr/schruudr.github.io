@@ -6,7 +6,16 @@ ul {
   margin: 0;
   padding: 0;
 }
-
+input {
+  width: 100%;
+  color: #1B1B1B;
+  size: 8;
+  background-color: rgba(255,255,255,0.5);
+  border: 3px solid transparent;
+  border-bottom: 3px solid transparent;
+  border-radius: 25px;
+  align-items: center;
+}
 body {
   background: #353945;
   height: 100%;
