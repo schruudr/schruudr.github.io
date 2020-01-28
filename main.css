@@ -6,17 +6,7 @@ ul {
   margin: 0;
   padding: 0;
 }
-input {
-  width: 800px;
-  color: #1B1B1B;
-  size: 8;
-  background-color: rgba(255,255,255,0.1);
-  border: 3px solid transparent;
-  border-bottom: 3px solid transparent;
-  border-radius: 25px;
-  margin: 0 auto;
- /* align-items: center;*/
-}
+
 body {
   background: #353945;
   height: 100%;
@@ -71,4 +61,16 @@ a {
 
 a:hover {
   color: #70838c;
+}
+
+input {
+  width: 800px;
+  color: #1B1B1B;
+  size: 8;
+  background-color: rgba(255,255,255,0.1);
+  border: 3px solid transparent;
+  border-bottom: 3px solid transparent;
+  border-radius: 25px;
+  margin: 0 auto;
+ /* align-items: center;*/
 }
