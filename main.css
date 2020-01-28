@@ -14,8 +14,9 @@ input {
   border: 3px solid transparent;
   border-bottom: 3px solid transparent;
   border-radius: 25px;
-  position center;
-  align-items: center;
+  position: absolute;
+  left: 50%
+ /* align-items: center;*/
 }
 body {
   background: #353945;
