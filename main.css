@@ -71,6 +71,7 @@ input {
   border: 3px solid transparent;
   border-bottom: 3px solid transparent;
   border-radius: 25px;
-  margin: 0 auto;
+  position: absolute;
+  top: 30%
  /* align-items: center;*/
 }
